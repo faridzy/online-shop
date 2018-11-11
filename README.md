@@ -2,8 +2,8 @@
 Create example online-shop with Node JS and MySQL
 
 #Requirement
-    1.Node JS
-    2.NPM
+    -Node JS
+    -NPM
 
 #Langkah-langkah:
     1.Clone project ini
